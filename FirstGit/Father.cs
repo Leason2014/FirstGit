@@ -7,5 +7,6 @@ namespace FirstGit
 {
     public class Father
     {
+        public string Name { get; set; }
     }
 }
