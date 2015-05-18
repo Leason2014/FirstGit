@@ -1,0 +1,7 @@
+d:\users\yongqiangli\documents\visual studio 2010\Projects\FirstGit\FirstGit\bin\Debug\FirstGit.exe
+d:\users\yongqiangli\documents\visual studio 2010\Projects\FirstGit\FirstGit\bin\Debug\FirstGit.pdb
+d:\users\yongqiangli\documents\visual studio 2010\Projects\FirstGit\FirstGit\obj\x86\Debug\FirstGit.csprojResolveAssemblyReference.cache
+d:\users\yongqiangli\documents\visual studio 2010\Projects\FirstGit\FirstGit\obj\x86\Debug\FirstGit.exe
+d:\users\yongqiangli\documents\visual studio 2010\Projects\FirstGit\FirstGit\obj\x86\Debug\FirstGit.pdb
+E:\FirstGit\FirstGit\obj\x86\Debug\FirstGit.exe
+E:\FirstGit\FirstGit\obj\x86\Debug\FirstGit.pdb
